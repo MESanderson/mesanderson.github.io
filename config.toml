@@ -20,6 +20,8 @@ summaryLength=150
 pygmentsUseClasses = true
 pygmentsCodefences = true
 
+publishDir = "docs/"
+
 [permalinks]
   post = "/:slug/"
   page = "/:slug/"
